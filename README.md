@@ -16,4 +16,9 @@ Oferecer 3 meses de Segurança Online gratuita para o grupo de maior risco + pes
 ### Ferramentas
 Python | Power BI | Jupyter Notebook 
 
+## Arquivos do Projeto
+
+* 📄 **Documentação Completa (PDF):** [Baixar / Visualizar PDF](./Documentacao-Analise-Zyntel.pdf)
+* 📓 **Notebook com os Códigos (Jupyter):** [Acessar Notebook](./analise_cancelamento.ipynb)
+
 **Dataset:** [Telco Customer Churn (Kaggle)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
