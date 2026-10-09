@@ -2,7 +2,7 @@
 
 A Zyntel, operadora de telecomunicações fictícia, vem perdendo **1 a cada 4 clientes** por cancelamento — e ainda não sabe exatamente onde o problema está concentrado. Este projeto investiga a base de clientes para identificar o **grupo de maior risco de cancelamento** e propor uma ação de retenção baseada em dados.
 
-***colocar a foto aqui***
+<img src="https://github.com/user-attachments/assets/4dc97c8f-0f7b-463c-9f45-8eb8503a666e" width="956" height="536" alt="Dashboard Zyntel">
 
 ### Principais Achados
 - **7.032** clientes | **1.869** cancelamentos (**26,6%**)
