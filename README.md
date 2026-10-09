@@ -20,5 +20,6 @@ Python | Power BI | Jupyter Notebook
 
 * 📄 **Documentação Completa (PDF):** [Baixar / Visualizar PDF](./Documentacao-Analise-Zyntel.pdf)
 * 📓 **Notebook com os Códigos (Jupyter):** [Acessar Notebook](./analise_cancelamento.ipynb)
+* 📊 **Dashboard Power BI (.pbix):** [Baixar arquivo](./Dashboard%20de%20analise%20de%20cancelamentos.pbix) (abre no Power BI Desktop, que é gratuito)
 
 **Dataset:** [Telco Customer Churn (Kaggle)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
